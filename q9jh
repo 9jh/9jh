@@ -1,53 +1,136 @@
-#EXTINF:-1,BEINSPORT-1 SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/13.ts
-#EXTINF:-1,BEINSPORT-2 SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/12.ts
-#EXTINF:-1,BEINSPORT-3 SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/11.ts
-#EXTINF:-1,BEINSPORTS 4SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/19.ts
-#EXTINF:-1,BeinSport-5 SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/18.ts
-#EXTINF:-1,BeinSport-6 SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/17.ts
-#EXTINF:-1,BeinSport-7 SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/16.ts
-#EXTINF:-1,BeinSport-8 SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/15.ts
-#EXTINF:-1,BEINSPORT 9 SD
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/14.ts
-#EXTINF:-1,BeinSports 1 LOW
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/22.ts
-#EXTINF:-1,BeinSports 2 LOW
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/21.ts
-#EXTINF:-1,BeinSports 3 LOW
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/20.ts
-#EXTINF:-1,AR:BEIN_SPORTS 4 Low
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/25.ts
-#EXTINF:-1,AR:BEINSPORTS 5 Low
-http://IPTV.madridista3arab.ml:25461/live/user0030/M7vDGhbzMN/24.ts
-#EXTM3U
-#EXTINF:-1,FR_Canal_Sport
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/133.ts
-#EXTINF:-1,FR_Bein_Sport1
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/110.ts
-#EXTINF:-1,FR_Bein_Sport2
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/111.ts
-#EXTINF:-1,FR_Bein_Sport3
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/112.ts
-#EXTINF:-1,FR_Infosport
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/149.ts
-#EXTINF:-1,FR_Eurosport1
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/189.ts
-#EXTINF:-1,FR_Eurosport2
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/190.ts
-#EXTINF:-1,FR_BFM_Sport
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/2672.ts
-#EXTINF:-1,IT_Eurosport1
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/2601.ts
-#EXTINF:-1,IT_Eurosport2
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/2602.ts
-#EXTINF:-1,IT_Sportitalia
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/2603.ts
-#EXTINF:-1,IT_Fox_Sports
-http://iptv.infosat.org:8888/live/xtream.hopto.me/398079/2607.ts
+#EXTINF:-1,OSN: MBC MAX
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/7225.ts
+#EXTINF:-1,OSN: MBC ACTION
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/7227.ts
+#EXTINF:-1,OSN: MBC DRAMA
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/7197.ts
+#EXTINF:-1,OSN: TLC HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8806.ts
+#EXTINF:-1,OSN: SyFy HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8807.ts
+#EXTINF:-1,OSN: Yahala Cinema
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14612.ts
+#EXTINF:-1,OSN: Fatafeat
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/9025.ts
+#EXTINF:-1,OSN: Nickelodeon HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8800.ts
+#EXTINF:-1,OSN: STAR WORLD HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/6322.ts
+#EXTINF:-1,OSN: ANIMAL PLANET HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/7919.ts
+#EXTINF:-1,OSN: DISCOVERY HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/15237.ts
+#EXTINF:-1,OSN: Series First HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/15234.ts
+#EXTINF:-1,OSN: NGC PEOPLE HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8111.ts
+#EXTINF:-1,OSN: Nat Geo HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8798.ts
+#EXTINF:-1,OSN: First HBO HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8595.ts
+#EXTINF:-1,OSN: BBC FIRST HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8794.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT1
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/7198.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT2
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/7199.ts
+#EXTINF:-1,OSN: ALKASS_SPORT_4_HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8107.ts
+#EXTINF:-1,OSN: MBC PRO SPORT 3
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/7222.ts
+#EXTINF:-1,OSN: movies Family
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14613.ts
+#EXTINF:-1,OSN: B4U-Aflam
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8234.ts
+#EXTINF:-1,OSN: B4U-Plus
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8235.ts
+#EXTINF:-1,OSN: Al Safwa
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/9028.ts
+#EXTINF:-1,OSN: Fann
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/9026.ts
+#EXTINF:-1,AR: LBC Lebanon
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8589.ts
+#EXTINF:-1,AR: Abu-Dhabi-Emarat
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/15129.ts
+#EXTINF:-1,AR: Al Aoula Layoune
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/10739.ts
+#EXTINF:-1,AR: Al Hadath HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8398.ts
+#EXTINF:-1,AR: Al Hayat 2
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14636.ts
+#EXTINF:-1,AR: ALAAN
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14568.ts
+#EXTINF:-1,Ar: Alassema
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14644.ts
+#EXTINF:-1,Ar: Algeria Albilad
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14657.ts
+#EXTINF:-1,AR: Alhayat
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/15125.ts
+#EXTINF:-1,AR: Alhayat_2
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/15126.ts
+#EXTINF:-1,AR: ALKARMA
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/15127.ts
+#EXTINF:-1,AR: Almajd
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14624.ts
+#EXTINF:-1,AR: ALNAS
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8403.ts
+#EXTINF:-1,AR: Alsharqiya
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/15130.ts
+#EXTINF:-1,AR: Arriadia SAT
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14630.ts
+#EXTINF:-1,AR: BEIN MOVIES 4HD
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/312.ts
+#EXTINF:-1,AR: Cairo-Drama
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8238.ts
+#EXTINF:-1,AR: Cartoon-Network
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8237.ts
+#EXTINF:-1,AR: DMC Drama
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14642.ts
+#EXTINF:-1,AR: Dream
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14645.ts
+#EXTINF:-1,AR: Dubai tv
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/15128.ts
+#EXTINF:-1,AR: DUBAI_SPORTS_3
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8078.ts
+#EXTINF:-1,AR: DUBAI_SPORTS_4
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8079.ts
+#EXTINF:-1,AR: El Balad Drama
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14640.ts
+#EXTINF:-1,Ar: HodHod{kids}
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14661.ts
+#EXTINF:-1,AR: Kuwait-Ethraa
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8243.ts
+#EXTINF:-1,AR: LBC
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8593.ts
+#EXTINF:-1,AR: LDC
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8591.ts
+#EXTINF:-1,AR: M-Tunisia
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8242.ts
+#EXTINF:-1,AR: MTV Lebanon
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8588.ts
+#EXTINF:-1,AR: NBN
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8241.ts
+#EXTINF:-1,AR: Nile_Cinema
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8097.ts
+#EXTINF:-1,AR: Nile_comedy
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/8096.ts
+#EXTINF:-1,AR: Panorama Drama
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14637.ts
+#EXTINF:-1,AR: Panorama Drama 2
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14638.ts
+#EXTINF:-1,AR: TeleMaroc
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14632.ts
+#EXTINF:-1,Ar: Ten
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14643.ts
+#EXTINF:-1,AR:ALAAN
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14648.ts
+#EXTINF:-1,AR:B4Uaflam
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14656.ts
+#EXTINF:-1,AR:JSC DOC
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14649.ts
+#EXTINF:-1,AR:LBC-SAT
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14653.ts
+#EXTINF:-1,AR:MehwarTV
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14647.ts
+#EXTINF:-1,AR:ON Live
+http://s1.smartview.live:80/live/BKfvju658fnD/CVyhuif67dfR/14641.ts
